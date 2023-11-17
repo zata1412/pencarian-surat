@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pencarian surat/__init__.py
+src/pencarian surat/alquran.py
+src/pencarian_surat.egg-info/PKG-INFO
+src/pencarian_surat.egg-info/SOURCES.txt
+src/pencarian_surat.egg-info/dependency_links.txt
+src/pencarian_surat.egg-info/top_level.txt
